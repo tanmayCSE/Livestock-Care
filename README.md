@@ -1,0 +1,1 @@
+# Livestock-Disease-Detection
