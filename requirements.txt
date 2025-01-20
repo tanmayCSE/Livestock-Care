@@ -1,4 +1,4 @@
-altair @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/altair_1699282542592/work
+altair==4.2.2  # Or use the version you need
 anyio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_68kdsx8iyd/croot/anyio_1729121281958/work
 appnope @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/appnope_1699303798458/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
