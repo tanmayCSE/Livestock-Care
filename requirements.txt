@@ -1,5 +1,5 @@
 altair==4.2.2  # Or use the version you need
-anyio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_68kdsx8iyd/croot/anyio_1729121281958/work
+anyio==3.7.1  # Or the version you need
 appnope @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/appnope_1699303798458/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2ef471wnyf/croot/argon2-cffi-bindings_1736182451265/work
